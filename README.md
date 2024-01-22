@@ -1,2 +1,2 @@
-# Malti-factor-Authentication
+# Multi-factor-Authentication
 Research Project
